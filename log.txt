@@ -65,3 +65,201 @@ Venue Date: 10 /04/19
 Venue Name: Glasgow Summer Sessions
 Venue Location: Glasgow, 
 Venue Date: 08 /17/19
+Venue Name: Epicenter Festival
+Venue Location: Rockingham, NC
+Venue Date: 05 /12/19
+Venue Name: The Fillmore New Orleans
+Venue Location: New Orleans, LA
+Venue Date: 05 /15/19
+Venue Name: The Fillmore New Orleans
+Venue Location: New Orleans, LA
+Venue Date: 05 /16/19
+Venue Name: Pula Arena
+Venue Location: Pula, 
+Venue Date: 06 /18/19
+Venue Name: Sonic Temple Festival (May 17-19)
+Venue Location: Columbus, OH
+Venue Date: 05 /17/19
+Venue Name: Southside Festival
+Venue Location: Neuhausen Ob Eck, 
+Venue Date: 06 /21/19
+Venue Name: Pula Arena
+Venue Location: Pula, 
+Venue Date: 06 /19/19
+Venue Name: Hurricane Festival
+Venue Location: Scheeßel, 
+Venue Date: 06 /23/19
+Venue Name: Faengslet
+Venue Location: Horsens, 
+Venue Date: 06 /25/19
+Venue Name: Koengen Fortress
+Venue Location: Bergen, 
+Venue Date: 06 /27/19
+Venue Name: Lollapalooza Stockholm (28-29 June)
+Venue Location: Stockholm, 
+Venue Date: 06 /29/19
+Venue Name: Glasgow Summer Sessions
+Venue Location: Glasgow, 
+Venue Date: 08 /17/19
+Venue Name: Vital Festival
+Venue Location: Belfast, 
+Venue Date: 08 /19/19
+Venue Name: RDS Arena
+Venue Location: Dublin, 
+Venue Date: 08 /21/19
+Venue Name: Leeds Festival
+Venue Location: Leeds, 
+Venue Date: 08 /23/19
+Venue Name: Sziget Festival
+Venue Location: Budapest, 
+Venue Date: 08 /13/19
+Venue Name: Bourbon and Beyond
+Venue Location: Louisville, KY
+Venue Date: 09 /20/19
+Venue Name: Pilgrimage Festival
+Venue Location: Franklin, TN
+Venue Date: 09 /22/19
+Venue Name: Estadio Nacional de Costa Rica
+Venue Location: San José, 
+Venue Date: 10 /04/19
+Venue Name: Reading Festival
+Venue Location: Reading, 
+Venue Date: 08 /25/19
+Venue Name: Rock in Rio
+Venue Location: Rio De Janeiro, 
+Venue Date: 09 /28/19
+Venue Name: El Campin Stadium
+Venue Location: Bogotá, 
+Venue Date: 10 /01/19
+Venue Name: The Fillmore New Orleans
+Venue Location: New Orleans, LA
+Venue Date: 05 /15/19
+Venue Name: Epicenter Festival
+Venue Location: Rockingham, NC
+Venue Date: 05 /12/19
+Venue Name: The Fillmore New Orleans
+Venue Location: New Orleans, LA
+Venue Date: 05 /16/19
+Venue Name: Pula Arena
+Venue Location: Pula, 
+Venue Date: 06 /18/19
+Venue Name: Sonic Temple Festival (May 17-19)
+Venue Location: Columbus, OH
+Venue Date: 05 /17/19
+Venue Name: Hurricane Festival
+Venue Location: Scheeßel, 
+Venue Date: 06 /23/19
+Venue Name: Southside Festival
+Venue Location: Neuhausen Ob Eck, 
+Venue Date: 06 /21/19
+Venue Name: Pula Arena
+Venue Location: Pula, 
+Venue Date: 06 /19/19
+Venue Name: Koengen Fortress
+Venue Location: Bergen, 
+Venue Date: 06 /27/19
+Venue Name: Faengslet
+Venue Location: Horsens, 
+Venue Date: 06 /25/19
+Venue Name: Lollapalooza Stockholm (28-29 June)
+Venue Location: Stockholm, 
+Venue Date: 06 /29/19
+Venue Name: Sziget Festival
+Venue Location: Budapest, 
+Venue Date: 08 /13/19
+Venue Name: Glasgow Summer Sessions
+Venue Location: Glasgow, 
+Venue Date: 08 /17/19
+Venue Name: Vital Festival
+Venue Location: Belfast, 
+Venue Date: 08 /19/19
+Venue Name: RDS Arena
+Venue Location: Dublin, 
+Venue Date: 08 /21/19
+Venue Name: Leeds Festival
+Venue Location: Leeds, 
+Venue Date: 08 /23/19
+Venue Name: Reading Festival
+Venue Location: Reading, 
+Venue Date: 08 /25/19
+Venue Name: Bourbon and Beyond
+Venue Location: Louisville, KY
+Venue Date: 09 /20/19
+Venue Name: Pilgrimage Festival
+Venue Location: Franklin, TN
+Venue Date: 09 /22/19
+Venue Name: Rock in Rio
+Venue Location: Rio De Janeiro, 
+Venue Date: 09 /28/19
+Venue Name: El Campin Stadium
+Venue Location: Bogotá, 
+Venue Date: 10 /01/19
+Venue Name: Estadio Nacional de Costa Rica
+Venue Location: San José, 
+Venue Date: 10 /04/19
+Venue Name: Epicenter Festival
+Venue Location: Rockingham, NC
+Venue Date: 05 /12/19
+Venue Name: Sonic Temple Festival (May 17-19)
+Venue Location: Columbus, OH
+Venue Date: 05 /17/19
+Venue Name: The Fillmore New Orleans
+Venue Location: New Orleans, LA
+Venue Date: 05 /16/19
+Venue Name: Pula Arena
+Venue Location: Pula, 
+Venue Date: 06 /18/19
+Venue Name: The Fillmore New Orleans
+Venue Location: New Orleans, LA
+Venue Date: 05 /15/19
+Venue Name: Hurricane Festival
+Venue Location: Scheeßel, 
+Venue Date: 06 /23/19
+Venue Name: Pula Arena
+Venue Location: Pula, 
+Venue Date: 06 /19/19
+Venue Name: Southside Festival
+Venue Location: Neuhausen Ob Eck, 
+Venue Date: 06 /21/19
+Venue Name: Faengslet
+Venue Location: Horsens, 
+Venue Date: 06 /25/19
+Venue Name: Koengen Fortress
+Venue Location: Bergen, 
+Venue Date: 06 /27/19
+Venue Name: Sziget Festival
+Venue Location: Budapest, 
+Venue Date: 08 /13/19
+Venue Name: Glasgow Summer Sessions
+Venue Location: Glasgow, 
+Venue Date: 08 /17/19
+Venue Name: Vital Festival
+Venue Location: Belfast, 
+Venue Date: 08 /19/19
+Venue Name: RDS Arena
+Venue Location: Dublin, 
+Venue Date: 08 /21/19
+Venue Name: Leeds Festival
+Venue Location: Leeds, 
+Venue Date: 08 /23/19
+Venue Name: Reading Festival
+Venue Location: Reading, 
+Venue Date: 08 /25/19
+Venue Name: Bourbon and Beyond
+Venue Location: Louisville, KY
+Venue Date: 09 /20/19
+Venue Name: Pilgrimage Festival
+Venue Location: Franklin, TN
+Venue Date: 09 /22/19
+Venue Name: Rock in Rio
+Venue Location: Rio De Janeiro, 
+Venue Date: 09 /28/19
+Venue Name: El Campin Stadium
+Venue Location: Bogotá, 
+Venue Date: 10 /01/19
+Venue Name: Estadio Nacional de Costa Rica
+Venue Location: San José, 
+Venue Date: 10 /04/19
+Venue Name: Lollapalooza Stockholm (28-29 June)
+Venue Location: Stockholm, 
+Venue Date: 06 /29/19
